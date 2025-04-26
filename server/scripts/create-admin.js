@@ -25,7 +25,7 @@ async function createAdmin() {
   ];
 
   const answers = await prompt(questions);
-
+   
   admin.username = answers.username;
   admin.password = answers.password;
 

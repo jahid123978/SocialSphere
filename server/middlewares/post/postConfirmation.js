@@ -11,6 +11,7 @@ const postConfirmation = async (req, res, next) => {
     const confirmationToken = generateConfirmationToken(req.userId);
 
     try {
+      // console.log("req.body", req.body);
       const { content, communityId } = req.body;
       const { userId, file, fileUrl, fileType } = req;
 
