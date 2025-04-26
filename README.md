@@ -1,4 +1,4 @@
-# SocialEcho
+# SocialSphere
 
 A social networking platform with automated content moderation and context-based authentication system.
 
@@ -176,5 +176,5 @@ Moderators have specific email domain (`@mod.socialSphere.com`). When registerin
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/jahid123978/SocialSphere?tab=MIT-1-ov-file).
 
